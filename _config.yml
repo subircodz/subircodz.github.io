@@ -3,9 +3,49 @@ description: Python + DSA Learning Hub
 
 url: "https://subircodz.github.io"
 
-nav_enabled: true
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
 
-remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+search_enabled: true
+
+heading_anchors: true
+
+nav_enabled: true
+
+aux_links:
+  "GitHub":
+    - "https://github.com/subir-the-coder"
+
+footer_content: "© 2026 Subir Codes"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+collections:
+  python:
+    output: true
+  dsa:
+    output: true
+  django:
+    output: true
+  numpy:
+    output: true
+  sql:
+    output: true
+
+just_the_docs:
+  collections:
+    python:
+      name: Python
+    dsa:
+      name: DSA
+    django:
+      name: Django
+    numpy:
+      name: NumPy
+    sql:
+      name: SQL
