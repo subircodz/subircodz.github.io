@@ -1,0 +1,12 @@
+title: Subir Codes
+description: Python + DSA Learning Hub
+
+theme: just-the-docs
+
+url: "https://subir-the-coder.github.io"
+
+aux_links:
+  "GitHub Profile":
+    - "https://github.com/subir-the-coder"
+
+nav_enabled: true
