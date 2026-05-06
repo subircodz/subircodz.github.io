@@ -107,7 +107,7 @@ Long-term:
 
 ## 📬 Connect With Me
 
-* GitHub: subirthecoder35@gmail.com
+* Email: subirthecoder35@gmail.com
 
 ---
 
