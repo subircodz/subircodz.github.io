@@ -3,10 +3,10 @@ description: Python + DSA Learning Hub
 
 theme: just-the-docs
 
-url: "https://subir-the-coder.github.io"
+url: "https://subircodez.github.io"
 
 aux_links:
   "GitHub Profile":
-    - "https://github.com/subir-the-coder"
+    - "https://github.com/subircodez"
 
 nav_enabled: true
