@@ -36,16 +36,3 @@ collections:
     output: true
   sql:
     output: true
-
-just_the_docs:
-  collections:
-    python:
-      name: Python
-    dsa:
-      name: DSA
-    django:
-      name: Django
-    numpy:
-      name: NumPy
-    sql:
-      name: SQL
