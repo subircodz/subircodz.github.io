@@ -1,9 +1,8 @@
----
-layout: home
-title: Home
-nav_order: 1
----
+title: Subir Codes
+description: Python + DSA Learning Hub
 
-# 🚀 Welcome to Subir Codes
+theme: just-the-docs
 
-My Python + DSA learning hub.
+url: "https://subircodz.github.io"
+
+nav_enabled: true
