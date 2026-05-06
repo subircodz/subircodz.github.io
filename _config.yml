@@ -3,10 +3,11 @@ description: Python + DSA Learning Hub
 
 theme: just-the-docs
 
-url: "https://subircodez.github.io"
-
-aux_links:
-  "GitHub Profile":
-    - "https://github.com/subircodez"
+url: "https://subircodz.github.io"
 
 nav_enabled: true
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: just-the-docs/just-the-docs
