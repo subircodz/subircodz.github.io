@@ -30,7 +30,7 @@ collections:
     output: true
   dsa:
     output: true
-  projcets:
+  projects:
     output: true
   django:
     output: true
